@@ -17,7 +17,7 @@ app.use(cors({
   origin: [
     'http://localhost:5173',
     'http://localhost:3000',
-    process.env.CLIENT_URL || 'https://drass94-client.vercel.app/'
+    process.env.CLIENT_URL || 'https://assignment-nine-client.vercel.app/'
   ],
   credentials: true
 }));
