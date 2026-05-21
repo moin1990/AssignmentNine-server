@@ -31,9 +31,5 @@ Express.js REST API for the IdeaVault platform, backed by MongoDB Atlas.
 | DELETE | `/api/comments/:id` | ✅ owner | Delete comment |
 | GET | `/api/comments/user/:email` | ✅ | Get all comments by user |
 
-## Setup
-
-```bash
-npm install
 
 
