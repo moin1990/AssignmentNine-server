@@ -36,5 +36,5 @@ Express.js REST API for the IdeaVault platform, backed by MongoDB Atlas.
 ```bash
 npm install
 cp .env.example .env
-npm run 
+npm 
 
